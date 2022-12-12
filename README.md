@@ -29,7 +29,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________
 
 🛠 Tools and Languages
-
+ html css Visual Studio Code javascript wordpress python c++ java Sublime-Text Git bootstrap intellij atom C++ markdown solidity
 
 
                
