@@ -31,6 +31,12 @@ ________________________________________________________________________________
 
 
 🛠 Tools and Languages
+![css3-original](https://user-images.githubusercontent.com/101040488/207083548-abca2f47-7f9d-47c0-8039-76bb28e4b953.svg)
+![html5-original](https://user-images.githubusercontent.com/101040488/207083668-17030b08-4c75-4e60-af5c-4d05cc46c52b.svg)
+![javascript-plain](https://user-images.githubusercontent.com/101040488/207083686-f38f6cad-2cd8-4234-ba95-0ae35c0fd486.svg)
+![python-original](https://user-images.githubusercontent.com/101040488/207083715-6f9f32ce-dde0-4a6c-9295-8fb19966d785.svg)
+![visual-studio-code](https://user-images.githubusercontent.com/101040488/207083726-47d62620-ec9d-45f0-a99d-c143cee7dd5a.png)
+![wordpress-original](https://user-images.githubusercontent.com/101040488/207083749-c1be68e6-15cf-4e61-b8dc-e98df16bb6cf.svg)
 
 
 
